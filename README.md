@@ -6,9 +6,7 @@ Tweepy is a Python library for accessing the Twitter API. It is great for extrac
 TextBlob is a Python library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part of sentiment analysis and more.
 
 ## Libraries
-This project is build using following libraries 
- - Tweepy
- - Textblob
+Other libraries used are :
  - csv
  - re
  - pandas
